@@ -1,0 +1,22 @@
+{
+  "name": "product-video",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Narrated product guide films. Scaffolded by the product-video skill.",
+  "scripts": {
+    "render": "remotion render src/index.ts",
+    "studio": "remotion studio src/index.ts"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.515",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "remotion": "4.0.515"
+  },
+  "devDependencies": {
+    "@types/react": "19.0.0",
+    "playwright": "^1.62.1",
+    "typescript": "5.7.2"
+  }
+}

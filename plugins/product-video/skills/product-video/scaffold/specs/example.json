@@ -1,0 +1,23 @@
+{
+  "n": 1,
+  "slug": "getting-started",
+  "title": "Getting started",
+  "subtitle": "Your first five minutes",
+
+  "clipDir": "1",
+
+  "lines": [
+    "vo-1/seg1.mp3",
+    "vo-1/seg2.mp3",
+    "vo-1/seg3.mp3",
+    "vo-1/seg4.mp3"
+  ],
+
+  "opener": 0,
+  "signoff": 3,
+
+  "beats": [
+    { "beat": "nav", "lines": [1], "box": "nav.primary" },
+    { "beat": "cta", "lines": [2], "box": "cta" }
+  ]
+}

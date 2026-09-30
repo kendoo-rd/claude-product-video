@@ -1,0 +1,10 @@
+{
+  "name": "product-video",
+  "description": "Build narrated product guide videos to a fixed quality standard: ElevenLabs voiceover, screen recording with element spotlights, captions, and a check pass that refuses to ship a film whose narration does not match what is on screen.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Kendoo"
+  },
+  "homepage": "https://github.com/kendoo-rd/claude-product-video",
+  "license": "MIT"
+}

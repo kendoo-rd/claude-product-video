@@ -1,0 +1,53 @@
+{
+  "product": {
+    "name": "Your Product",
+    "tagline": "The line under the name on the end card.",
+    "url": "example.com/guides"
+  },
+
+  "brand": {
+    "primary": "#264653",
+    "accent": "#e9c46a",
+    "spotlight": "#e9c46a",
+    "screenBackground": "#0b1417",
+    "font": "-apple-system, BlinkMacSystemFont, \"SF Pro Display\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "logo": null
+  },
+
+  "format": {
+    "seconds": 60,
+    "fps": 30,
+    "width": 1920,
+    "height": 1080,
+    "titleEndsAt": 3.5,
+    "endCardAt": 54,
+    "seriesLabel": "Guide"
+  },
+
+  "voice": {
+    "voiceId": "",
+    "model": "eleven_multilingual_v2",
+    "language": "eng",
+    "settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style": 0,
+      "use_speaker_boost": true
+    }
+  },
+
+  "music": null,
+
+  "pacing": {
+    "leadOut": 0.3,
+    "minGap": 0.45,
+    "borrow": 1.5
+  },
+
+  "recorder": {
+    "baseUrl": "http://localhost:3000",
+    "auth": null,
+    "cookies": [],
+    "cursor": { "fill": "rgba(38,70,83,.30)", "border": "#264653", "halo": "rgba(233,196,106,.30)" }
+  }
+}
